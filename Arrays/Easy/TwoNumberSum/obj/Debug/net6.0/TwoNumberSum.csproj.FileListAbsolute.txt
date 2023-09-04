@@ -1,0 +1,15 @@
+C:\Users\Sam\source\repos\pallavijoshisgl\Data-Structure-And-Algorithms\Arrays\Easy\TwoNumberSum\bin\Debug\net6.0\TwoNumberSum.exe
+C:\Users\Sam\source\repos\pallavijoshisgl\Data-Structure-And-Algorithms\Arrays\Easy\TwoNumberSum\bin\Debug\net6.0\TwoNumberSum.deps.json
+C:\Users\Sam\source\repos\pallavijoshisgl\Data-Structure-And-Algorithms\Arrays\Easy\TwoNumberSum\bin\Debug\net6.0\TwoNumberSum.runtimeconfig.json
+C:\Users\Sam\source\repos\pallavijoshisgl\Data-Structure-And-Algorithms\Arrays\Easy\TwoNumberSum\bin\Debug\net6.0\TwoNumberSum.dll
+C:\Users\Sam\source\repos\pallavijoshisgl\Data-Structure-And-Algorithms\Arrays\Easy\TwoNumberSum\bin\Debug\net6.0\ref\TwoNumberSum.dll
+C:\Users\Sam\source\repos\pallavijoshisgl\Data-Structure-And-Algorithms\Arrays\Easy\TwoNumberSum\bin\Debug\net6.0\TwoNumberSum.pdb
+C:\Users\Sam\source\repos\pallavijoshisgl\Data-Structure-And-Algorithms\Arrays\Easy\TwoNumberSum\obj\Debug\net6.0\TwoNumberSum.csproj.AssemblyReference.cache
+C:\Users\Sam\source\repos\pallavijoshisgl\Data-Structure-And-Algorithms\Arrays\Easy\TwoNumberSum\obj\Debug\net6.0\TwoNumberSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sam\source\repos\pallavijoshisgl\Data-Structure-And-Algorithms\Arrays\Easy\TwoNumberSum\obj\Debug\net6.0\TwoNumberSum.AssemblyInfoInputs.cache
+C:\Users\Sam\source\repos\pallavijoshisgl\Data-Structure-And-Algorithms\Arrays\Easy\TwoNumberSum\obj\Debug\net6.0\TwoNumberSum.AssemblyInfo.cs
+C:\Users\Sam\source\repos\pallavijoshisgl\Data-Structure-And-Algorithms\Arrays\Easy\TwoNumberSum\obj\Debug\net6.0\TwoNumberSum.csproj.CoreCompileInputs.cache
+C:\Users\Sam\source\repos\pallavijoshisgl\Data-Structure-And-Algorithms\Arrays\Easy\TwoNumberSum\obj\Debug\net6.0\TwoNumberSum.dll
+C:\Users\Sam\source\repos\pallavijoshisgl\Data-Structure-And-Algorithms\Arrays\Easy\TwoNumberSum\obj\Debug\net6.0\ref\TwoNumberSum.dll
+C:\Users\Sam\source\repos\pallavijoshisgl\Data-Structure-And-Algorithms\Arrays\Easy\TwoNumberSum\obj\Debug\net6.0\TwoNumberSum.pdb
+C:\Users\Sam\source\repos\pallavijoshisgl\Data-Structure-And-Algorithms\Arrays\Easy\TwoNumberSum\obj\Debug\net6.0\TwoNumberSum.genruntimeconfig.cache

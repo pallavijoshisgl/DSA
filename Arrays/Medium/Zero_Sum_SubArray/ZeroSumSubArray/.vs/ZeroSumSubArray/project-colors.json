@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e242e43d-7f35-4260-9194-d2f81e549078": {
+      "ProjectGuid": "e242e43d-7f35-4260-9194-d2f81e549078",
+      "DisplayName": "ZeroSumSubArray",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

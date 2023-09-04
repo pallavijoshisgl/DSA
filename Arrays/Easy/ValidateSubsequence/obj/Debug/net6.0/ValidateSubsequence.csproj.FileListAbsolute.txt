@@ -1,0 +1,14 @@
+C:\Users\Sam\source\repos\pallavijoshisgl\Data-Structure-And-Algorithms\Arrays\Easy\ValidateSubsequence\obj\Debug\net6.0\ValidateSubsequence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sam\source\repos\pallavijoshisgl\Data-Structure-And-Algorithms\Arrays\Easy\ValidateSubsequence\obj\Debug\net6.0\ValidateSubsequence.AssemblyInfoInputs.cache
+C:\Users\Sam\source\repos\pallavijoshisgl\Data-Structure-And-Algorithms\Arrays\Easy\ValidateSubsequence\obj\Debug\net6.0\ValidateSubsequence.AssemblyInfo.cs
+C:\Users\Sam\source\repos\pallavijoshisgl\Data-Structure-And-Algorithms\Arrays\Easy\ValidateSubsequence\obj\Debug\net6.0\ValidateSubsequence.csproj.CoreCompileInputs.cache
+C:\Users\Sam\source\repos\pallavijoshisgl\Data-Structure-And-Algorithms\Arrays\Easy\ValidateSubsequence\bin\Debug\net6.0\ValidateSubsequence.exe
+C:\Users\Sam\source\repos\pallavijoshisgl\Data-Structure-And-Algorithms\Arrays\Easy\ValidateSubsequence\bin\Debug\net6.0\ValidateSubsequence.deps.json
+C:\Users\Sam\source\repos\pallavijoshisgl\Data-Structure-And-Algorithms\Arrays\Easy\ValidateSubsequence\bin\Debug\net6.0\ValidateSubsequence.runtimeconfig.json
+C:\Users\Sam\source\repos\pallavijoshisgl\Data-Structure-And-Algorithms\Arrays\Easy\ValidateSubsequence\bin\Debug\net6.0\ValidateSubsequence.dll
+C:\Users\Sam\source\repos\pallavijoshisgl\Data-Structure-And-Algorithms\Arrays\Easy\ValidateSubsequence\bin\Debug\net6.0\ref\ValidateSubsequence.dll
+C:\Users\Sam\source\repos\pallavijoshisgl\Data-Structure-And-Algorithms\Arrays\Easy\ValidateSubsequence\bin\Debug\net6.0\ValidateSubsequence.pdb
+C:\Users\Sam\source\repos\pallavijoshisgl\Data-Structure-And-Algorithms\Arrays\Easy\ValidateSubsequence\obj\Debug\net6.0\ValidateSubsequence.dll
+C:\Users\Sam\source\repos\pallavijoshisgl\Data-Structure-And-Algorithms\Arrays\Easy\ValidateSubsequence\obj\Debug\net6.0\ref\ValidateSubsequence.dll
+C:\Users\Sam\source\repos\pallavijoshisgl\Data-Structure-And-Algorithms\Arrays\Easy\ValidateSubsequence\obj\Debug\net6.0\ValidateSubsequence.pdb
+C:\Users\Sam\source\repos\pallavijoshisgl\Data-Structure-And-Algorithms\Arrays\Easy\ValidateSubsequence\obj\Debug\net6.0\ValidateSubsequence.genruntimeconfig.cache

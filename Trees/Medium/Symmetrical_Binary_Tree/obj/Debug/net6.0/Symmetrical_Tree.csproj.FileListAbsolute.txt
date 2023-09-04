@@ -1,0 +1,14 @@
+C:\Users\Sam\source\repos\pallavijoshisgl\Data-Structure-And-Algorithms\Trees\Medium\Symmetrical_Binary_Tree\obj\Debug\net6.0\Symmetrical_Tree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sam\source\repos\pallavijoshisgl\Data-Structure-And-Algorithms\Trees\Medium\Symmetrical_Binary_Tree\obj\Debug\net6.0\Symmetrical_Tree.AssemblyInfoInputs.cache
+C:\Users\Sam\source\repos\pallavijoshisgl\Data-Structure-And-Algorithms\Trees\Medium\Symmetrical_Binary_Tree\obj\Debug\net6.0\Symmetrical_Tree.AssemblyInfo.cs
+C:\Users\Sam\source\repos\pallavijoshisgl\Data-Structure-And-Algorithms\Trees\Medium\Symmetrical_Binary_Tree\obj\Debug\net6.0\Symmetrical_Tree.csproj.CoreCompileInputs.cache
+C:\Users\Sam\source\repos\pallavijoshisgl\Data-Structure-And-Algorithms\Trees\Medium\Symmetrical_Binary_Tree\bin\Debug\net6.0\Symmetrical_Tree.exe
+C:\Users\Sam\source\repos\pallavijoshisgl\Data-Structure-And-Algorithms\Trees\Medium\Symmetrical_Binary_Tree\bin\Debug\net6.0\Symmetrical_Tree.deps.json
+C:\Users\Sam\source\repos\pallavijoshisgl\Data-Structure-And-Algorithms\Trees\Medium\Symmetrical_Binary_Tree\bin\Debug\net6.0\Symmetrical_Tree.runtimeconfig.json
+C:\Users\Sam\source\repos\pallavijoshisgl\Data-Structure-And-Algorithms\Trees\Medium\Symmetrical_Binary_Tree\bin\Debug\net6.0\Symmetrical_Tree.dll
+C:\Users\Sam\source\repos\pallavijoshisgl\Data-Structure-And-Algorithms\Trees\Medium\Symmetrical_Binary_Tree\bin\Debug\net6.0\ref\Symmetrical_Tree.dll
+C:\Users\Sam\source\repos\pallavijoshisgl\Data-Structure-And-Algorithms\Trees\Medium\Symmetrical_Binary_Tree\bin\Debug\net6.0\Symmetrical_Tree.pdb
+C:\Users\Sam\source\repos\pallavijoshisgl\Data-Structure-And-Algorithms\Trees\Medium\Symmetrical_Binary_Tree\obj\Debug\net6.0\Symmetrical_Tree.dll
+C:\Users\Sam\source\repos\pallavijoshisgl\Data-Structure-And-Algorithms\Trees\Medium\Symmetrical_Binary_Tree\obj\Debug\net6.0\ref\Symmetrical_Tree.dll
+C:\Users\Sam\source\repos\pallavijoshisgl\Data-Structure-And-Algorithms\Trees\Medium\Symmetrical_Binary_Tree\obj\Debug\net6.0\Symmetrical_Tree.pdb
+C:\Users\Sam\source\repos\pallavijoshisgl\Data-Structure-And-Algorithms\Trees\Medium\Symmetrical_Binary_Tree\obj\Debug\net6.0\Symmetrical_Tree.genruntimeconfig.cache
