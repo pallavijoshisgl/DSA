@@ -21,7 +21,7 @@ public class MinHeightBST
 
         var node = new BST(array[mid]);
 
-        node.left = CreateNode(array, 0, mid - 1);
+        node.left = CreateNode(array, i, mid - 1);
         node.right = CreateNode(array, mid + 1, j);
 
         return node;
