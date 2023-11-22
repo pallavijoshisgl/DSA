@@ -27,9 +27,10 @@ namespace Run_Length_Encoding
                 {
                     count++;
                 }
-                sb.Append(count);
-                sb.Append(ch);
+                
             }
+            sb.Append(count);
+            sb.Append(ch);
             return sb.ToString();
 
         }
